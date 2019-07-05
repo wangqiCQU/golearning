@@ -1,2 +1,2 @@
 # golearning
-this ia a golang learn demo
+this ia a golang learn demo。
