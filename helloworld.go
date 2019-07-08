@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
-func main()  {
-	fmt.Println("HelloWorld")
+func main() {
+	a := 5.0
+	fmt.Printf("a 的类型为 %T  /r/n", a )
+	fmt.Println("Hello, World")
 }
