@@ -1,2 +1,2 @@
 # golearning
-this ia a golang learn demo。
+这是学习golang的笔记
